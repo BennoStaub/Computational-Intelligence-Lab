@@ -1,5 +1,8 @@
 # Computational-Intelligence-Lab
 
+--It occurs that you can see only one page of the 2-page pdf file. For complete view, download the pdf file and open it--
+
+
 This repository is used to share my exam cheatsheet for the Computational Intelligence Lab course at ETH Zurich in 2017.
 Achieved grade: 5.5, where 6 is the maximum possible grade.
 
